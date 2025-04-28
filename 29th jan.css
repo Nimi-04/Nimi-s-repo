@@ -22,7 +22,7 @@
     justify-content: space-between;
     align-items: center;
     padding: .5rem, 2rem, .5rem, 2rem;
-    background-color: aqua;
+    background-color: white;
 }
 
 
@@ -52,4 +52,9 @@
     padding: 1rem;
     border-radius: .5rem;
     border: none;
+}
+
+
+.nav-links button:hover{
+    background-color: green;
 }
